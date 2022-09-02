@@ -32,18 +32,9 @@ Teams :
 
 
 ## Repositorio
-- [Examen2B_GR2COM]()
+- [Examen2B_GR2COM](https://github.com/Davich0/Examen2B_GR2COM.git)
 
 ### Procedimiento
 Desarrollar una red social (network) acorde al diagrama UML descrito. Tema de su elección
 ![UML](image/UML.png)
-
-delimitar 
-1 - 1
-1 - ..*
-..* - ..*
-
-Agregaci'on -> Una clase no depende de la otra
-Composicion -> Una clase si depende de la otra
-
 
