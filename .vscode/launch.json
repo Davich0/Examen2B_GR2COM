@@ -1,0 +1,74 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Aprincipal",
+      "request": "launch",
+      "mainClass": "POO.Asociaciones.Asoci11.Aprincipal",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "POO.Herencia.Principal",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch carro",
+      "request": "launch",
+      "mainClass": "Herencia.carro",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch javaExceptions",
+      "request": "launch",
+      "mainClass": "javaExceptions",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch limpiarConsola",
+      "request": "launch",
+      "mainClass": "limpiarConsola",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch consolaPassword",
+      "request": "launch",
+      "mainClass": "consolaPassword",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch consolaColor",
+      "request": "launch",
+      "mainClass": "consolaColor",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Examen2B_GR2COM_93e09f0b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<Test_15ed94ac>",
+      "request": "launch",
+      "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "App",
+      "projectName": "Juego_"
+    }
+  ]
+}
